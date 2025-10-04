@@ -3,3 +3,4 @@ this is a git test text file
 #@$%%^^&&
 happy holiday
 Hello , my name is Tammam
+Hello from the other side
